@@ -191,7 +191,10 @@ body{
        }
 
 
-/* Responsive Layout */
+/*responsivo*/
+
+
+
 @media (min-width: 576px) {
     .container {
         grid-template-areas: 
